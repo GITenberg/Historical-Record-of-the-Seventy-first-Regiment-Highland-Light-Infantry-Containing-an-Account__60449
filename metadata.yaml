@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Seventy-first-Regiment-Highland-Light-Infantry-Containing-an-Account__60449
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Historical record of the 71st Foot
+covers:
+- cover_type: archival
+  image_path: 60449-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60449#Historical-Record-of-the-Seventy-first-Regiment-Highland-Light-Infantry-Containing-an-Account_
 gutenberg_issued: '2019-10-07'
 gutenberg_type: Text
 identifiers:
